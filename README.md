@@ -2,8 +2,8 @@
 
 Website portofolio pribadi untuk tugas **Slicing Website HTML/CSS/JS** mata kuliah Pemrograman Web.
 
-🔗 **Live demo:** https://ayeen1.github.io/portofolio/
-📂 **Repository:** https://github.com/ayeen1/portofolio
+🔗 **Live demo:** https://ayeen1.github.io/Portofolio/
+📂 **Repository:** https://github.com/ayeen1/Portofolio
 
 ![Tampilan Beranda](screenshots/desktop-home.png)
 
